@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Poppins');
+
+h4 {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h3 p{
+  text-align: center;
+}
+
+div.card-title {
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+        border: none;
+        background-color: lightblue;
+}
+
+.ui-widget-content {
+        border: none;
+        background-color: transparent;
+}
+
+.ui-widget-header {
+        border: none;
+        background-color: transparent;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+#tabs li{
+  background-color:pink;
+  border: none;
+}
+
+#tabs {
+
+  border: none;
+  font-family: 'Poppins', sans-serif;
+  text-align: justify;
+}
+
+div.card {
+color: white;
+}
+
+div > p {
+  color: white;
+}
